@@ -1,0 +1,107 @@
+{
+  "Pizzas": [
+    {
+      "name": "Pepperoni",
+      "sauce": "tomato sauce",
+      "meat": "salami",
+      "cheese": "edam",
+      "hasOnions": false,
+      "hasOlives": false,
+      "hasPineapple": false,
+      "size": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "price": 6
+    },
+    {
+      "name": "Margarita",
+      "sauce": "tomato sauce",
+      "meat": "no",
+      "cheese": "edam",
+      "hasOnions": false,
+      "hasOlives": false,
+      "hasPineapple": false,
+      "size": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "price": 4
+    },
+    {
+      "name": "Quattro Formaggi",
+      "sauce": "tomato sauce",
+      "meat": "no",
+      "cheese": "edam, parmezan, mozarella and emmental",
+      "hasOnions": false,
+      "hasOlives": false,
+      "hasPineapple": false,
+      "size": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "price": 10
+    },
+    {
+      "name": "Master Burger",
+      "sauce": "barbeque sauce",
+      "meat": "beef",
+      "cheese": "mozarella",
+      "hasOnions": true,
+      "hasOlives": false,
+      "hasPineapple": false,
+      "size": [
+        "medium",
+        "large"
+      ],
+      "price": 10
+    },
+    {
+      "name": "Mediteraneo",
+      "sauce": "tomato sauce",
+      "meat": "none",
+      "cheese": "feta",
+      "hasOnions": false,
+      "hasOlives": true,
+      "hasPineapple": false,
+      "size": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "price": 8
+    },
+    {
+      "name": "Hawaii",
+      "sauce": "tomato sauce",
+      "meat": "pork",
+      "cheese": "mozarella",
+      "hasOnions": false,
+      "hasOlives": true,
+      "hasPineapple": true,
+      "size": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "price": 9
+    },
+    {
+      "name": "Meatalicious",
+      "sauce": "tomato sauce",
+      "meat": "pork, beef, chicken",
+      "cheese": "edam",
+      "hasOnions": true,
+      "hasOlives": true,
+      "hasPineapple": false,
+      "size": [
+        "small",
+        "large"
+      ],
+      "price": 11
+    }
+  ]
+}
